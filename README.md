@@ -1,4 +1,4 @@
-# 🚀 IoT Projects Portfolio
+# IoT Projects Portfolio
 
 This repository showcases my IoT and Embedded Systems projects using Arduino and ESP32.  
 All projects are implemented with real hardware and include automation logic, sensors, and actuators.
